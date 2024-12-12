@@ -7,9 +7,9 @@ The project is about a personal profile website that showcase my skills, my achi
 # Features of website:
 - Welcome Section: A brief introduction about me along with my profile picture.
 - About Section: Information about my programming skills and others.
-- Education Section: My academic background, displayed in a timeline format.
+- Education Section: My academic background throughout my life.
 - Portfolio Section: Showcases my achievements with images and descriptions.
-- Contact Section: Provides my email, phone number, and social media links.
+- Contact Section: Provides my email, phone number, and social media link (Facebook).
 
 # How to Navigate
 1. Navigation Bar:  - Links at the top of the page allow you to quickly jump to specific sections: About, Education, Portfolio, and Contact.
