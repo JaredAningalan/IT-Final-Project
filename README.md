@@ -2,7 +2,7 @@
 by Jared Lance S. Aningalan, CS-1104
 
 Description:
-The project is about a personal profile website that showcase my skills, my achievements, and my contact detials. It provides an easy way to learn more about me and my journey throughout my life as a student.
+The project is about a personal profile website that showcase my skills, my achievements, and my contact details. It provides an easy way to learn more about me and my journey throughout my life as a student.
 
 # Features of website:
 - Welcome Section: A brief introduction about me along with my profile picture.
@@ -21,6 +21,6 @@ The project is about a personal profile website that showcase my skills, my achi
  1. HTML and CSS - The website is built using HTML and CSS.
   
  2. Images -  Ensure the following images are in the correct folder structure:
-     - `images/desktop bg.jpg`: Background image for various sections.
-     - `jared pic.jpg`: Profile picture.
-     - `journalism pic.jpg`, `jhs pic.jpg`, `shs pic.jpg`: Images used in the Portfolio section.
+     - `images/desktop bg.jpg`: Background image for different sections.
+     - `jared pic.jpg`: Used of the profile picture.
+     - `journalism pic.jpg`, `jhs pic.jpg`, `shs pic.jpg`: Images used in the Portfolio section (Achievements).
