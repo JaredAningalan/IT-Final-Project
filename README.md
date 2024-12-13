@@ -12,7 +12,7 @@ The project is about a personal profile website that showcase my skills, my achi
 - Contact Section: Provides my email, phone number, and social media link (Facebook).
 
 # How to Navigate
-1. Navigation Bar:  - Links at the top of the page allow you to quickly jump to specific sections: About, Education, Portfolio, and Contact.
+1. Navigation Bar: Links at the top of the page allow you to quickly jump to specific sections: About, Education, Portfolio, and Contact.
 2. Scroll: You can scroll down the page to view each section in sequence.
 3. Clickable Links: Click on social media or email links in the Contact section to connect with me directly.
 
@@ -21,6 +21,6 @@ The project is about a personal profile website that showcase my skills, my achi
  1. HTML and CSS - The website is built using HTML and CSS.
   
  2. Images -  Ensure the following images are in the correct folder structure:
-     - `images/desktop bg.jpg`: Background image for different sections.
-     - `jared pic.jpg`: Used of the profile picture.
-     - `journalism pic.jpg`, `jhs pic.jpg`, `shs pic.jpg`: Images used in the Portfolio section (Achievements).
+     - images/desktop bg.jpg: Background image for different sections.
+     - jared pic.jpg: Used of the profile picture.
+     - journalism pic.jpg, jhs pic.jpg, shs pic.jpg: Images used in the Portfolio section (Achievements).
